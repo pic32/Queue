@@ -28,7 +28,7 @@
 
 #include "QueueConfig.h"
 #include "QueueObject.h"
-#include "GenericTypeDefs.h"
+#include "GenericTypes.h"
 
 /*
 	Function: QUEUE *CreateQueue(QUEUE *Queue)

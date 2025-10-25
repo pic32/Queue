@@ -14,7 +14,7 @@
 #ifndef QUEUE_OBJECT_H
 	#define QUEUE_OBJECT_H
 
-#include "GenericTypeDefs.h"
+#include "GenericTypes.h"
 
 /*
 	The following struct is a node within the Queue.
